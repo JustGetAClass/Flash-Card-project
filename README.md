@@ -1,5 +1,5 @@
 
-# Project Title
+# Flash-Card-project
 
 This project helps the user to learn french words by using flash cards.
 
