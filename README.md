@@ -1,4 +1,4 @@
-
+[![CodeFactor](https://www.codefactor.io/repository/github/justgetaclass/flash-card-project/badge)](https://www.codefactor.io/repository/github/justgetaclass/flash-card-project)
 # Flash-Card-project
 
 This project helps the user to learn french words by using flash cards.
