@@ -56,11 +56,11 @@ canvas.grid(row=0, column=0, columnspan=2)
 
 # Buttons
 wrong_img = PhotoImage(file="images/wrong.png")
-wrong_button = Button(image=wrong_img, highlightthickness=0, command=next_card)
+wrong_button = Button(image=wrong_img, highlightthickness=0, bd=0, command=next_card)
 wrong_button.grid(row=1, column=0)
 
 right_img = PhotoImage(file="images/right.png")
-right_button = Button(image=right_img, highlightthickness=0, command=is_known)
+right_button = Button(image=right_img, highlightthickness=0, bd=0, command=is_known)
 right_button.grid(row=1, column=1)
 
 next_card()
